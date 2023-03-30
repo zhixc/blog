@@ -15,7 +15,7 @@ git add .
 git commit -m "备注信息可以任意填写"
 ```
 
-在推送至远程仓库前要给有git公钥，git公钥生成和github账号设置公钥可以参考另一篇文章[git设置公钥](./git-SSH.md)
+在推送至远程仓库前要给有git公钥，git公钥生成和github账号设置公钥可以参考另一篇文章[生成SSH密钥](./生成SSH密钥.md)
 
 4.SSH 关联远程仓库(我在github上面简历了一个远程仓库 blog )
 ```bash
