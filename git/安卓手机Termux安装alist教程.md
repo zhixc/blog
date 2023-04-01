@@ -1,4 +1,4 @@
-# 安卓手机Termux安装alist教程
+# 安卓手机 Termux 安装 alist 教程
 
 1.下载 Termux 安卓版
 
@@ -16,7 +16,7 @@ pkg install alist
 ```
 然后回车，接下来就会进行下载alist和自动安装alist了。
 
-备注：手机上面的回车符号是这种：<img src="./images/回车符.jpg" alt="回车符" title="回车符">
+备注：手机上面的回车符号类似这种：<img src="./images/回车符.jpg" alt="回车符" title="回车符" style="width:20px;height:20px">
 
 3.查看 alist 管理员账号和密码
 输入以下命令
