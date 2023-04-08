@@ -106,7 +106,7 @@ total 82488
 |      sudo      | 获取root权限                 | sudo -s                                                      |
 | Ctr + D / exit | 退出root权限                 |                                                              |
 |     clear      | 清除屏幕或窗口内容           |                                                              |
-|      ping      | 给网络主机发送回应请求       | ping [www.baidu.com](https://links.jianshu.com/go?to=http%3A%2F%2Fwww.baidu.com) |
+|      ping      | 给网络主机发送回应请求       | ping www.baidu.com |
 |      man       | 查看命令说明                 | man ls                                                       |
 |       q        | 退出查看的命令说明           |                                                              |
 |     which      | 查看指定程序的路径           | which python                                                 |

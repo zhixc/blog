@@ -1,6 +1,6 @@
 # Mac mysql解压版安装
 
-在 Mac 系统上, 安装 [MySQL](http://lib.csdn.net/base/mysql) Server 一般是用 DMG 包在图形化界面下按提示安装, 此外 [mysql](http://lib.csdn.net/base/mysql) 还提供了 Compressed TAR Archive 二进制包安装方式, 即免安装解压运行版, 相比 DMG 包, 免安装版过程更为简洁, 纯命令行操作, 更符合码客们的折腾精神。
+在 Mac 系统上, 安装 MySQL Server 一般是用 DMG 包在图形化界面下按提示安装, 此外 mysql还提供了 Compressed TAR Archive 二进制包安装方式, 即免安装解压运行版, 相比 DMG 包, 免安装版过程更为简洁, 纯命令行操作, 更符合码客们的折腾精神。
 
 ```ruby
 系统环境: OS X Yosemite 10.10.3
