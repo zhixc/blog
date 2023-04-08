@@ -20,4 +20,10 @@
 
 [安卓手机Termux安装alist教程](./termux/安卓手机Termux安装alist教程.md)
 
+[Linux常用命令](./linux/Linux常用命令.md)
 
+[Mac常用终端命令](./mac/Mac常用终端命令.md)
+
+[MySQL(MacOS)解压版安装教程](./mysql/MySQL(MacOS)解压版安装教程.md)
+
+[MySQL进阶](./mysql/MySQL进阶.md)
