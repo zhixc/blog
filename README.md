@@ -27,3 +27,6 @@
 [MySQL(MacOS)解压版安装教程](./mysql/MySQL(MacOS)解压版安装教程.md)
 
 [MySQL进阶](./mysql/MySQL进阶.md)
+
+[去广告过滤规则记录](./anti_ad/去广告过滤规则记录.md)
+
