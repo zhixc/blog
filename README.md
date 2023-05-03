@@ -12,6 +12,8 @@
 
 [git版本回退](./git/Git的版本回退.md)
 
+[git配置全局用户邮箱](./git/git配置全局用户邮箱.md)
+
 [git生成SSH密钥](./git/生成SSH密钥.md)
 
 [git记住密码](./git/git记住密码.md)
