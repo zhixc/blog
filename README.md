@@ -20,6 +20,8 @@
 
 [python发送post请求](./python/python发送post请求.md)
 
+[网页调试陷入无限断点(Debugger)的解决方法](./python/网页调试陷入无限断点(Debugger)的解决方法.md)
+
 [Github之pull request](./git/Github之pr.md)
 
 [安卓手机Termux安装git教程](./termux/安卓手机Termux安装git教程.md)
