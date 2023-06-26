@@ -18,6 +18,8 @@
 
 [git记住密码](./git/git记住密码.md)
 
+[git分支操作](./git/git分支操作.md)
+
 [python发送post请求](./python/python发送post请求.md)
 
 [网页调试陷入无限断点(Debugger)的解决方法](./python/网页调试陷入无限断点(Debugger)的解决方法.md)
