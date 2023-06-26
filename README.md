@@ -18,6 +18,8 @@
 
 [git记住密码](./git/git记住密码.md)
 
+[Github之pull request](./git/Github之pr.md)
+
 [安卓手机Termux安装git教程](./termux/安卓手机Termux安装git教程.md)
 
 [安卓手机Termux安装alist教程](./termux/安卓手机Termux安装alist教程.md)
