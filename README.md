@@ -14,6 +14,8 @@
 
 [git配置全局用户邮箱](./git/git配置全局用户邮箱.md)
 
+[git为项目单独配置用户名和邮箱](./git/git为项目单独配置用户名和邮箱.md)
+
 [git生成SSH密钥](./git/生成SSH密钥.md)
 
 [git记住密码](./git/git记住密码.md)
