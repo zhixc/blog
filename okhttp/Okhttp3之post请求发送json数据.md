@@ -13,7 +13,7 @@ public class OkDemo {
         String json =  "{\"id\":1,\"name\":\"李四\"}";
         // 创建一个 FormBody 对象
         RequestBody requestBody = RequestBody.create(
-                MediaType.parse("application/json"), json);
+                MediaType.parse("application/json; charset=utf-8"), json);
 
         // 创建一个请求对象
         Request request = new Request.Builder()
@@ -25,8 +25,10 @@ public class OkDemo {
         OkHttpClient okHttpClient = new OkHttpClient();
         // 客户端执行请求（同步请求）
         Response response = okHttpClient.newCall(request).execute();
-        byte[] bytes = response.body().bytes(); // 获取请求体内容二进制
-        String str = response.body().string(); // 获取请求体内容字符串
+        ResponseBody body = response.body();
+        // 注意 body.bytes() 或 body.string() 只能调用一次
+//        byte[] bytes = body.bytes(); // 获取请求体内容二进制
+        String str = body.string(); // 获取请求体内容字符串
         System.out.println(str);
         response.close();
     }

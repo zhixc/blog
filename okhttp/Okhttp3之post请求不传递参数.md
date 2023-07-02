@@ -24,10 +24,10 @@ public class OkDemo {
         OkHttpClient okHttpClient = new OkHttpClient();
         // 客户端执行请求（同步请求）
         Response response = okHttpClient.newCall(request).execute();
-        // 获取请求体内容二进制
-        byte[] bytes = response.body().bytes(); 
-        // 获取请求体内容字符串
-        String str = response.body().string();
+        ResponseBody body = response.body();
+        // 注意 body.bytes() 或 body.string() 只能调用一次
+//        byte[] bytes = body.bytes(); // 获取请求体内容二进制
+        String str = body.string(); // 获取请求体内容字符串
         System.out.println(str);
         response.close();
     }
