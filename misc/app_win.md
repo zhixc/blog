@@ -4,10 +4,6 @@
     - 提示：安装一下迅雷，用迅雷下载 ed2k 开头的链接吧，下载速度比较快
     - [系统库(有win11原版镜像)](https://www.xitongku.com/index.html)
     - [HelloWindows.cn](https://hellowindows.cn)
-    - [MSDN网站 我告诉你 - 只能下载 win10 2019年及以前的](https://msdn.itellyou.cn)
-
-- [win10/11禁止更新软件Windows Update Blocker v1.8](https://www.52pojie.cn/thread-1797391-1-1.html)
-    - 下载地址：[蓝奏云资源](https://yumumu.lanzouw.com/iH1zy0z4pawh)
 
 - [windows defender如何添加信任软件](https://www.bilibili.com/video/BV1ao4y1m7Uu)
     - 防止误杀软件/游戏等，尤其是一些汉化补丁。

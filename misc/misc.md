@@ -1,7 +1,7 @@
 ### 搜索引擎
 - [必应](https://bing.com)
     - 备注: 替代百毒
-    
+
 - [Yandex](https://yandex.com)
     - 备注: 俄罗斯的搜索引擎，搜索效果还是不错的，经常搜出一些大人的网站 doge
 
@@ -156,11 +156,7 @@
 
 - [漫画阅读开源项目](https://github.com/topics/manga-reader)
 
-- [kodjodevf/mangayomi: Free and open source application for reading manga, watching anime and streaming torrent available on Android, iOS, macOS, Linux and Windows](https://github.com/kodjodevf/mangayomi)
-
 - [Source extensions for the Mihon/Tachiyomi app](https://github.com/keiyoushi/extensions)
-
-- [miru-app 貌似停止更新了](https://github.com/miru-project/miru-app)
 
 - [takagen99收录的一些仓库，看看](https://github.com/takagen99?tab=repositories)
 

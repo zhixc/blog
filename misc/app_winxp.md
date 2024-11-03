@@ -14,9 +14,6 @@
 - [Windows xp sp3 cd vl 密钥 - 3000bookworm - 博客园](https://www.cnblogs.com/3000bookworm/p/15428174.html)
 
 
-- [软碟通 可用于制作 u盘 启动器 启动安装windows镜像](https://ultraiso.net)
-    - [UltralSO 软碟通制作U盘启动盘（图解详细 完美避坑）](https://blog.csdn.net/qq_43901693/article/details/95535051)
-
 ---
 
 ## 影音播放
@@ -28,10 +25,6 @@
 - [千千静听](https://www.mefcl.com/ttplayer/8673)
 
 ---
-
-## 浏览器
-
-- [支持 winXP、win7 的浏览器supermium，可用最新的谷歌浏览器内核](http://win32subsystem.live/supermium)
 
 ---
 
@@ -56,6 +49,9 @@
 ## 输入法
 
 - 手心输入法
+
+- QQ输入法
+
 
 ---
 
