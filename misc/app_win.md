@@ -4,6 +4,8 @@
     - 提示：安装一下迅雷，用迅雷下载 ed2k 开头的链接吧，下载速度比较快
     - [系统库(有win11原版镜像)](https://www.xitongku.com/index.html)
     - [HelloWindows.cn](https://hellowindows.cn)
+    - [【日常技巧】Rufus安装原版win10教程（全流程）_rufus教程-CSDN博客](https://blog.csdn.net/stevephone/article/details/115241887)
+
 
 - [windows defender如何添加信任软件](https://www.bilibili.com/video/BV1ao4y1m7Uu)
     - 防止误杀软件/游戏等，尤其是一些汉化补丁。
@@ -12,13 +14,6 @@
 
 - [Firefox/opera/Thunderbird/Brave/chrome/edge便携版自动生成、启动器](https://www.52pojie.cn/thread-1132305-1-1.html)
 
-- [Chrome历史版本](https://github.com/ulixee/chrome-versions/)
-    - [适用于win7、macOS10.13/10.14的108版本](https://github.com/ulixee/chrome-versions/tags?after=109.0.5414.74)
-        - [mac版下载](https://github.com/ulixee/chrome-versions/releases/download/108.0.5359.124/chrome_108.0.5359.124_mac.tar.gz)
-        - [win7版下载](https://github.com/ulixee/chrome-versions/releases/download/108.0.5359.125/chrome_108.0.5359.125_win32.tar.gz)
-    - [103版本](https://github.com/ulixee/chrome-versions/tags?after=104.0.5112.101)
-        - [mac版下载](https://github.com/ulixee/chrome-versions/releases/download/103.0.5060.134/chrome_103.0.5060.134_mac.tar.gz)
-        - [win7版下载](https://github.com/ulixee/chrome-versions/releases/download/103.0.5060.134/chrome_103.0.5060.134_win32.tar.gz)
 
 ---
 

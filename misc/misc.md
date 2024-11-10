@@ -181,8 +181,6 @@
 
 - [美工修图 - 猪豆网](https://www.97444.cn/zixuejiaocheng/meigongxiutu)
 
-- [M3U8在线播放器 - 程序员工具箱 - 在线工具](http://tool.pfan.cn/m3u8)
-
 - [哔哩哔哩 的第三方 Android TV 应用](https://github.com/aaa1115910/bv)
 
 - [stantanasi/streamflix](https://github.com/stantanasi/streamflix)

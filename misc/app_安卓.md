@@ -35,12 +35,10 @@
 ### 主机/掌机/街机模拟工具
 
 - [PPSSPP](https://www.ppsspp.org) 开源高效率的 PSP 模拟器，世界上最好的 PSP 模拟器。支持安卓、IOS、MacOS、Windows系统
-    - v1.15.4
-        - [下载](https://www.ppsspp.org/files/1_15_4/ppsspp.apk)
-    - v1.16.4
-        - [下载](https://www.ppsspp.org/files/1_16_4/ppsspp.apk)
     - v1.17.1
         - [下载](https://www.ppsspp.org/files/1_17_1/ppsspp.apk)
+    - v1.18.1
+        - [下载](https://www.ppsspp.org/files/1_18_1/ppsspp.apk)
 
 - 强烈推荐使用 跳坑者联盟整理的合集 天马G模拟器整合，网上搜索“天马G模拟器”就能够找到资源了。
 - 资源：
@@ -79,19 +77,19 @@
 ### 代理工具
 - [FlClash](https://github.com/chen08209/FlClash)
 	- 支持 yml / yaml 等订阅
-	- v0.8.66，要求 安卓5.0以上，win和macOS只测试过 win10 和 macOS 11 可用，[发布地址](https://github.com/chen08209/FlClash/releases/tag/v0.8.66)
-		- [安卓版 FlClash-0.8.66-android-armeabi-v7a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk)
-		- [安卓版 FlClash-0.8.66-android-armeabi-v7a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-armeabi-v7a.apk)
-		- [安卓版 FlClash-0.8.66-android-arm64-v8a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk)
-		- [安卓版 FlClash-0.8.66-android-arm64-v8a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-android-arm64-v8a.apk)
-		- [macOS版 intel cpu 版 FlClash-0.8.66-macos-amd64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-macos-amd64.dmg)
-		- [macOS版 intel cpu 版 FlClash-0.8.66-macos-amd64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-macos-amd64.dmg)
-		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.66-macos-arm64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-macos-arm64.dmg)
-		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.66-macos-arm64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-macos-arm64.dmg)
-		- [windows版 FlClash-0.8.66-windows-amd64-setup.exe 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64-setup.exe)
-		- [windows版 FlClash-0.8.66-windows-amd64-setup.exe 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64-setup.exe)
-		- [windows版 FlClash-0.8.66-windows-amd64.zip 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64.zip)
-		- [windows版 FlClash-0.8.66-windows-amd64.zip 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.66/FlClash-0.8.66-windows-amd64.zip)
+	- v0.8.67，要求 安卓5.0以上，win和macOS只测试过 win10 和 macOS 11 可用，[发布地址](https://github.com/chen08209/FlClash/releases/tag/v0.8.67)
+		- [安卓版 FlClash-0.8.67-android-armeabi-v7a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-android-armeabi-v7a.apk)
+		- [安卓版 FlClash-0.8.67-android-armeabi-v7a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-android-armeabi-v7a.apk)
+		- [安卓版 FlClash-0.8.67-android-arm64-v8a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-android-arm64-v8a.apk)
+		- [安卓版 FlClash-0.8.67-android-arm64-v8a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-android-arm64-v8a.apk)
+		- [macOS版 intel cpu 版 FlClash-0.8.67-macos-amd64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-macos-amd64.dmg)
+		- [macOS版 intel cpu 版 FlClash-0.8.67-macos-amd64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-macos-amd64.dmg)
+		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.67-macos-arm64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-macos-arm64.dmg)
+		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.67-macos-arm64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-macos-arm64.dmg)
+		- [windows版 FlClash-0.8.67-windows-amd64-setup.exe 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-windows-amd64-setup.exe)
+		- [windows版 FlClash-0.8.67-windows-amd64-setup.exe 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-windows-amd64-setup.exe)
+		- [windows版 FlClash-0.8.67-windows-amd64.zip 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-windows-amd64.zip)
+		- [windows版 FlClash-0.8.67-windows-amd64.zip 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.67/FlClash-0.8.67-windows-amd64.zip)
 
 
 - [hiddify-next](https://github.com/hiddify/hiddify-next)
@@ -174,11 +172,8 @@
     - [alantang1977/X](https://github.com/alantang1977/X)
         - https://ghproxy.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json
 
-    - [kimwang1978 更新维护的直播源](https://github.com/kimwang1978/collect-tv-txt)
-
-
 - [影视TV](https://github.com/FongMi/TV)
-    - 支持猫影视自定义爬虫、道长drpy爬虫、python爬虫的开源软件，自v2.2.0以后交给 okjack 接手开发维护后，闪退bug增加了特别多，基本没有能稳定使用的版本了。而 2.1.1～2.2.0之间的版本依旧不稳定，因为fongmi赶着更新版本号，几天更新一个版本，使用稳定上面还是建议使用 TVBox
+    - 支持猫影视自定义爬虫jar。
     - 收录了一些历史版本源码的仓库：[chengxue2020/BearTV](https://github.com/chengxue2020/BearTV)
     - okjack透明颜色修改的记录，可以逆着改回白色背景，可参考 [commit](https://github.com/FongMi/TV/commit/d875b476af6d5b0c678e7ce2b43c90a2ace62e3a)
 
