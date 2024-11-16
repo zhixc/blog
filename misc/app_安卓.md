@@ -21,11 +21,9 @@
         - [阅读 - 源仓库](https://www.yckceo1.com/)
             - 推荐，有精选的源，选择几十个的那种就好，多了没意义
             - 超过100个，搜索等半天，很多还是垃圾站。
-        - [Yiove 书源仓库 - 三千书源](https://shuyuan.yiove.com/)
         - [猫公子](https://dy.mgz6.com/)
         - [阅读APP源 - AOAOSTAR](https://legado.aoaostar.com/)
             - 【源数量过多，不推荐】
-
     - v3.25
         - [apk 下载](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk)
         - [apk 加速下载](https://ghproxy.cc/https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk)
@@ -65,14 +63,20 @@
 ---
 
 ### 浏览器
+- [kiwibrowser](https://github.com/kiwibrowser/src.next)
+    - kiwi浏览器是安卓平台第一浏览器
+    - 源码开源，支持html书签导入导出，Chrome插件支持，非常强大
+    - 开发者调试工具，简介易用
+    - 谷歌内核124
+        - [arm版下载](https://ghproxy.cc/https://github.com/kiwibrowser/src.next/releases/download/8265119645/com.kiwibrowser.browser-arm-8265119645-github.apk)
+        - [arm64版下载](https://ghproxy.cc/https://github.com/kiwibrowser/src.next/releases/download/8265119645/com.kiwibrowser.browser-arm64-8265119645-github.apk)
+    - 谷歌内核120
+        - [arm版下载](https://ghproxy.cc/https://github.com/kiwibrowser/src.next/releases/download/7262338544/com.kiwibrowser.browser-arm-7262338544-github.apk)
+        - [arm64版下载](https://ghproxy.cc/https://github.com/kiwibrowser/src.next/releases/download/7262338544/com.kiwibrowser.browser-arm64-7262338544-github.apk)
+    - 谷歌内核116
+        - [arm版下载](https://github.com/kiwibrowser/src.next/releases/download/5877778038/com.kiwibrowser.browser-arm-5877778038-github.apk)
+        - [arm版64下载](https://github.com/kiwibrowser/src.next/releases/download/5877778038/com.kiwibrowser.browser-arm64-5877778038-github.apk)
 
-- [iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
-    - 安卓端支持火狐插件浏览器
-    - v2.23.0，能用64位尽量用64位
-        - [armv7 下载](https://github.com/fork-maintainers/iceraven-browser/releases/download/iceraven-2.23.0/iceraven-2.23.0-browser-armeabi-v7a-forkRelease.apk)
-        - [armv7 加速下载](https://ghproxy.cc/https://github.com/fork-maintainers/iceraven-browser/releases/download/iceraven-2.23.0/iceraven-2.23.0-browser-armeabi-v7a-forkRelease.apk)
-        - [arm64 下载](https://github.com/fork-maintainers/iceraven-browser/releases/download/iceraven-2.23.0/iceraven-2.23.0-browser-arm64-v8a-forkRelease.apk)
-        - [arm64 加速下载](https://ghproxy.cc/https://github.com/fork-maintainers/iceraven-browser/releases/download/iceraven-2.23.0/iceraven-2.23.0-browser-arm64-v8a-forkRelease.apk)
 
 ### 代理工具
 - [FlClash](https://github.com/chen08209/FlClash)

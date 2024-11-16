@@ -22,7 +22,7 @@
 
 - [Tail of Desire Free Download](https://steamunlocked.net/c04a8-tail-of-desire-free-download/)
 
-- [Bloody Spell BUNDLE [Build 11127767] By Elong Games](https://lewdgames.to/bloody-spell-bundle-elong-games/)
+- [Bloody Spell BUNDLE By Elong Games](https://lewdgames.to/bloody-spell-bundle-elong-games/)
 
 - [Bloody Spell.viethoa : gamehayvai : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/bloody-spell.viethoa)
 

@@ -10,11 +10,11 @@
 
     - https://ghproxy.cc/
 
-    - https://ghps.cc/
+    - https://ghproxy.cn/
 
     - https://github.moeyy.xyz/
 
-    - https://gh.ddlc.top/
+    - https://ghproxy.xiaopa.cc/
 
 ---
 

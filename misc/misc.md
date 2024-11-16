@@ -19,8 +19,7 @@
 - 来源: 使用必应搜索：电影下载 导航，即可找到许多导航站点
 
 - [源仓库，TVbox、阅读和异次元的小说源漫画图源集合网站！ Tbox导航](https://www.tboxn.com/sites/859.html)
-
-- [工具达人](https://toolsdar.cn)
+    - 还有电子书 [zlibrary](https://www.tboxn.com/sites/320.html)
 
 - [鸡盒导航](https://caoniang.com)
     - 有挺多采集站资源导航
@@ -29,6 +28,7 @@
     - 备注: galgame、里番等导航
 
 - [摸鱼技术网 摸鱼儿的主页](https://www.xn--v4q818bf34b.com)
+    - chatGPT镜像站、TVBox接口
 
 ---
 
@@ -138,9 +138,12 @@
 ### 其他
 - [4275文件中转站，200m以内](https://4275.com/)
 
-- [文件中转传输](https://drop.space/space/)
+- [TransFiles](https://transfiles.ru/)
+    - 一项免费的文件托管服务，无需注册，最大上传 2GB，最多有效期 14 天。
 
 - [github搜索](https://seart-ghs.si.usi.ch/)
+
+- [免费公共 IPv4/IPv6/DoT/DoH DNS 服务器大全 Public DNS Server - DNS.iCoA.CN](https://dns.icoa.cn/)
 
 - [姬路白雪の资源小站](https://a.tkacg.com/133.html)
 
@@ -164,8 +167,7 @@
 
 - [注看看 截天地论坛](https://www.jietiandi.net)
 
-- [一糖导航丨实用的上网导航资源网址导航](https://iitang.com)
-- [168导航网 只收录精品网站和优质在线工具的导航网站](https://www.168nav.com)
+- [一糖导航 实用的上网导航资源网址导航](https://iitang.com)
 
 - [bd直连ip获取](https://site.ip138.com/cloudnproxy.n.shifen.com)
 
