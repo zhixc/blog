@@ -58,3 +58,15 @@
 
 - [DJ版《列车开往春天》 带着梦想，奔向那春天的列车啊！！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HS411N7WP/)
 
+- [2024年十六首热门新歌，首首都是破亿新歌，你喜欢听哪几首？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1M9SiY7Epx/)
+
+- [全网热门音乐《年少的你啊》《卜卦》《化风行万里》《可能》《离别开出花》_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ta8peLEY8/)
+
+- [程响原唱《可能》完整版，可能拥有过梦想，才能叫做青春，太好听_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DY4y197jz/)
+
+- [《感官先生》-刘凤瑶【无损音质】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ue4y1c7Wb/)
+
+- [若月亮没来 宝石GemX王宇宙X杨宗纬 等我攒够六便士 就去找月亮…_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1aw4m1S7HW/)
+
+- [索性自挂东南枝的合集和视频列表合集·热门歌曲 那些超好听的流行热歌](https://space.bilibili.com/350680303/channel/collectiondetail?sid=3915566)
+

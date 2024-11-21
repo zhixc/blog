@@ -15,6 +15,13 @@
 - [Firefox/opera/Thunderbird/Brave/chrome/edge便携版自动生成、启动器](https://www.52pojie.cn/thread-1132305-1-1.html)
 
 
+- [Chrome历史版本](https://github.com/ulixee/chrome-versions/)
+    - [适用于win7、macOS10.13/10.14的108版本](https://github.com/ulixee/chrome-versions/tags?after=109.0.5414.74)
+        - [mac版下载](https://github.com/ulixee/chrome-versions/releases/download/108.0.5359.124/chrome_108.0.5359.124_mac.tar.gz)
+        - [win7版下载](https://github.com/ulixee/chrome-versions/releases/download/108.0.5359.125/chrome_108.0.5359.125_win32.tar.gz)
+    - [110版本](https://github.com/ulixee/chrome-versions/releases/tag/110.0.5481.177)
+        - [mac版下载](https://github.com/ulixee/chrome-versions/releases/download/110.0.5481.177/chrome_110.0.5481.177_mac.tar.gz)
+
 ---
 
 
