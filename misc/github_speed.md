@@ -22,6 +22,8 @@
     
     - https://gh.llkk.cc/
 
+    - https://raw.e11z.net/
+
 ---
 
 - github raw 文件加速 ip 获取: https://site.ip138.com/raw.githubusercontent.com

@@ -1,7 +1,8 @@
 # 记录一些安卓软件
 
 ### 系统工具
-- [termux](https://github.com/termux/termux-app) 终端模拟器。
+- [termux](https://github.com/termux/termux-app)
+    - 终端模拟器。
     - 安卓 7.0 以上，v0.118
         - [armeabi-v7a.apk下载](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_armeabi-v7a.apk)
         - [armeabi-v7a.apk加速下载](https://ghproxy.cc/https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_armeabi-v7a.apk)
@@ -16,7 +17,8 @@
 
 ### 阅读工具
 
-- [阅读](https://github.com/gedoor/legado) 非常强大支持自定义书源的阅读软件，支持 txt 格式小说、epub
+- [阅读](https://github.com/gedoor/legado)
+    - 非常强大支持自定义书源的阅读软件，支持 txt 格式小说、epub
     - 书源仓库
         - [阅读 - 源仓库](https://www.yckceo1.com/)
             - 推荐，有精选的源，选择几十个的那种就好，多了没意义
@@ -32,7 +34,8 @@
 
 ### 主机/掌机/街机模拟工具
 
-- [PPSSPP](https://www.ppsspp.org) 开源高效率的 PSP 模拟器，世界上最好的 PSP 模拟器。支持安卓、IOS、MacOS、Windows系统
+- [PPSSPP](https://www.ppsspp.org)
+    - 开源高效率的 PSP 模拟器，世界上最好的 PSP 模拟器。支持安卓、IOS、MacOS、Windows系统
     - v1.17.1
         - [下载](https://www.ppsspp.org/files/1_17_1/ppsspp.apk)
     - v1.18.1
@@ -46,37 +49,20 @@
         - https://pan.baidu.com/s/1_JZvLS1UXcnPsfBRiafzfw?pwd=27qj
         - 解压密码：tgfctgfctgfc
 
-- [RetroArch](https://www.retroarch.com) 开源复古游戏模拟器，支持多种街机、家用机、掌机游戏模拟。
+- [RetroArch](https://www.retroarch.com)
+    - 开源复古游戏模拟器，支持多种街机、家用机、掌机游戏模拟。
     - buildbot构建下载(核心、安装包、着色器等资源)：
         - [https://buildbot.libretro.com](https://buildbot.libretro.com)
     - [虚拟按键 cfg 在线编辑器](https://valent-in.github.io/retropad-editor)
 
 - AetherSX2 免费的安卓端 PS2 模拟器，高效率模拟 PS2 游戏。目前作者已经停止更新。可惜了。要求安卓 8.0 以上 64 位设备才能运行。
-    - [跳转到 apkcombo 下载 需要科学](https://apkcombo.com/aethersx2/xyz.aethersx2.android)
     - [Aethersx2 Emulator For Android / IOS / Windows / Linux / Mac](https://aethersx2.gitlab.io)
-    - [Download AetherSX2 Emulator](https://aethersx2.gitlab.io/download)
 
 - emu系列模拟器汉化版
     - 涵盖多个主机平台：fc / sfc / md / pce / gba / gbc / ngp / swan / neo / msx / 雅达利2600 等
     - 南宫紫(夏暖i)汉化，[发布地址](http://xianuani.ysepan.com)
 
 ---
-
-### 浏览器
-- [kiwibrowser](https://github.com/kiwibrowser/src.next)
-    - kiwi浏览器是安卓平台第一浏览器
-    - 源码开源，支持html书签导入导出，Chrome插件支持，非常强大
-    - 开发者调试工具，简介易用
-    - 谷歌内核124
-        - [arm版下载](https://ghproxy.cc/https://github.com/kiwibrowser/src.next/releases/download/8265119645/com.kiwibrowser.browser-arm-8265119645-github.apk)
-        - [arm64版下载](https://ghproxy.cc/https://github.com/kiwibrowser/src.next/releases/download/8265119645/com.kiwibrowser.browser-arm64-8265119645-github.apk)
-    - 谷歌内核120
-        - [arm版下载](https://ghproxy.cc/https://github.com/kiwibrowser/src.next/releases/download/7262338544/com.kiwibrowser.browser-arm-7262338544-github.apk)
-        - [arm64版下载](https://ghproxy.cc/https://github.com/kiwibrowser/src.next/releases/download/7262338544/com.kiwibrowser.browser-arm64-7262338544-github.apk)
-    - 谷歌内核116
-        - [arm版下载](https://github.com/kiwibrowser/src.next/releases/download/5877778038/com.kiwibrowser.browser-arm-5877778038-github.apk)
-        - [arm版64下载](https://github.com/kiwibrowser/src.next/releases/download/5877778038/com.kiwibrowser.browser-arm64-5877778038-github.apk)
-
 
 ### 代理工具
 - [FlClash](https://github.com/chen08209/FlClash)
@@ -98,19 +84,7 @@
 
 - [hiddify-next](https://github.com/hiddify/hiddify-next)
 	- 支持 yml / yaml 等订阅，也支持 txt / base64 订阅，使用非常方便
-	- v1.5.2，要求 macOS 10.15 以上可用，安卓5.0以上，windows10以上。[发布地址](https://github.com/hiddify/hiddify-next/releases/tag/v1.5.2)
-		- [安卓版 Hiddify-Android-arm7.apk 下载](https://github.com/hiddify/hiddify-next/releases/download/v1.5.2/Hiddify-Android-arm7.apk)
-		- [安卓版 Hiddify-Android-arm7.apk 加速下载](https://ghproxy.cc/https://github.com/hiddify/hiddify-next/releases/download/v1.5.2/Hiddify-Android-arm7.apk)
-		- [安卓版 Hiddify-Android-arm64.apk 下载](https://github.com/hiddify/hiddify-next/releases/download/v1.5.2/Hiddify-Android-arm64.apk)
-		- [安卓版 Hiddify-Android-arm64.apk 加速下载](https://ghproxy.cc/https://github.com/hiddify/hiddify-next/releases/download/v1.5.2/Hiddify-Android-arm64.apk)
-		- [macOS版 Hiddify-MacOS.dmg 下载](https://github.com/hiddify/hiddify-next/releases/download/v1.5.2/Hiddify-MacOS.dmg)
-		- [macOS版 Hiddify-MacOS.dmg 加速下载](https://ghproxy.cc/https://github.com/hiddify/hiddify-next/releases/download/v1.5.2/Hiddify-MacOS.dmg)
-		- [windows版 Hiddify-Windows-Portable-x64.zip 下载](https://github.com/hiddify/hiddify-next/releases/download/v1.5.2/Hiddify-Windows-Portable-x64.zip)
-		- [windows版 Hiddify-Windows-Portable-x64.zip 加速下载](https://ghproxy.cc/https://github.com/hiddify/hiddify-next/releases/download/v1.5.2/Hiddify-Windows-Portable-x64.zip)
-		- [Windows 版 Hiddify-Windows-Setup-x64.exe 下载](https://github.com/hiddify/hiddify-next/releases/download/v1.5.2/Hiddify-Windows-Setup-x64.exe)
-		- [Windows 版 Hiddify-Windows-Setup-x64.exe 加速下载](https://ghproxy.cc/https://github.com/hiddify/hiddify-next/releases/download/v1.5.2/Hiddify-Windows-Setup-x64.exe)
-
-	- v2.0.5，注意：这个版本虽然支持编辑节点，但是会特别卡；要求 macOS 10.15 以上可用，安卓5.0以上，windows10以上 ，[发布地址](https://github.com/hiddify/hiddify-next/releases/tag/v2.0.5)
+	- v2.0.5，要求 macOS 10.15 以上可用，安卓5.0以上，windows10以上 ，[发布地址](https://github.com/hiddify/hiddify-next/releases/tag/v2.0.5)
 		- [安卓版 Hiddify-Android-arm7.apk 下载](https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Android-arm7.apk)
 		- [安卓版 Hiddify-Android-arm7.apk 加速下载](https://ghproxy.cc/https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Android-arm7.apk)
 		- [安卓版 Hiddify-Android-arm64.apk 下载](https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Android-arm64.apk)
@@ -182,6 +156,10 @@
     - [https://jihulab.com/cjb2/cjb](https://jihulab.com/cjb2/cjb)
     - [https://github.com/oliverzp/File](https://github.com/oliverzp/File)
     - [https://jihulab.com/dftv/dr_py/](https://jihulab.com/dftv/dr_py/)
+    - [https://gitlab.com/ylede1/tvbox/-/blob/master/DC.json](https://gitlab.com/ylede1/tvbox/-/blob/master/DC.json)
+    - [https://gitee.com/qihaoyyds/qihao](https://gitee.com/qihaoyyds/qihao)
+    - [https://git.acwing.com/shhentu/lzxw](https://git.acwing.com/shhentu/lzxw)
+    - [https://git.acwing.com/cuijw/cjwbox](https://git.acwing.com/cuijw/cjwbox)
 
 - [影视TV](https://github.com/FongMi/TV)
     - 支持猫影视自定义爬虫jar。

@@ -5,13 +5,7 @@
 - [Yandex](https://yandex.com)
     - 备注: 俄罗斯的搜索引擎，搜索效果还是不错的，经常搜出一些大人的网站 doge
 
-- 元搜索引擎，抓取谷歌的搜索结果，不稳定，大多数用几周就挂了，不建议用，还是建议科学后用 google 、否则用 必应、Yandex 搜索。
-
-    - [etsi](https://etsi.me)
-
-    - [zhenyapav.com](https://searx.zhenyapav.com)
-
-    - [ooglester](https://ooglester.com)
+- [https://swisscows.com/en](https://swisscows.com/en)
 
 ---
 
@@ -113,6 +107,9 @@
 
 - [免费图床](https://iui.su/pic.html)
 
+- [img 图床](https://img.wang/upload)
+    - 免注册图床，最大 20M 支持 webp
+
 - [freepik](https://www.freepik.com)
     - 备注: 免费icon图标下载
 
@@ -190,7 +187,7 @@
 
 - [肉食动物合集-哔哩哔哩_bilibili](https://search.bilibili.com/all?keyword=%E8%82%89%E9%A3%9F%E5%8A%A8%E7%89%A9%E5%90%88%E9%9B%86)
 
-
+- [BT之家1LOU站-回归初心，追求极简](https://www.1lou.pro/)
 
 ---
 
