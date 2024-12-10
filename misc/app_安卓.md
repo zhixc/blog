@@ -13,6 +13,12 @@
     - [adbhelper_v1.3.1.apk 下载](https://github.com/didjdk/adbhelper/releases/download/v1.3.1/adbhelper_v1.3.1.apk)
     - [adbhelper_v1.3.1.apk 加速下载](https://ghproxy.cc/https://github.com/didjdk/adbhelper/releases/download/v1.3.1/adbhelper_v1.3.1.apk)
 
+- 文件传输类工具下载
+    - 说明：手机开热点启动http服务器提供给连接热点的设备访问手机的文件进行上传和下载，或者手机与其他设备连接同一个wifi也可以，总之就是同一个局域网文件传输
+    - [Simple HTTP Server_1.8.0_汉化破解.apk](https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/files/master/apk/Simple%20HTTP%20Server_1.8.0_%E6%B1%89%E5%8C%96%E7%A0%B4%E8%A7%A3.apk)
+    - [HTTP File Server (+WebDAV)_1.5.5_汉化破解.apk](https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/files/master/apk/HTTP%20File%20Server%20(%2BWebDAV)_1.5.5_%E6%B1%89%E5%8C%96%E7%A0%B4%E8%A7%A3.apk)
+    - [HTTP File Server by slowscript v1.5.8_英文.apk](https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/files/master/apk/HTTP%20File%20Server%20by%20slowscript%20v1.5.8_%E8%8B%B1%E6%96%87.apk)
+
 ---
 
 ### 阅读工具
@@ -67,19 +73,19 @@
 ### 代理工具
 - [FlClash](https://github.com/chen08209/FlClash)
 	- 支持 yml / yaml 等订阅
-	- v0.8.68，要求 安卓5.0以上，win和macOS只测试过 win10 和 macOS 11 可用，[发布地址](https://github.com/chen08209/FlClash/releases/tag/v0.8.68)
-		- [安卓版 FlClash-0.8.68-android-armeabi-v7a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-android-armeabi-v7a.apk)
-		- [安卓版 FlClash-0.8.68-android-armeabi-v7a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-android-armeabi-v7a.apk)
-		- [安卓版 FlClash-0.8.68-android-arm64-v8a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-android-arm64-v8a.apk)
-		- [安卓版 FlClash-0.8.68-android-arm64-v8a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-android-arm64-v8a.apk)
-		- [macOS版 intel cpu 版 FlClash-0.8.68-macos-amd64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-macos-amd64.dmg)
-		- [macOS版 intel cpu 版 FlClash-0.8.68-macos-amd64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-macos-amd64.dmg)
-		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.68-macos-arm64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-macos-arm64.dmg)
-		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.68-macos-arm64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-macos-arm64.dmg)
-		- [windows版 FlClash-0.8.68-windows-amd64-setup.exe 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-windows-amd64-setup.exe)
-		- [windows版 FlClash-0.8.68-windows-amd64-setup.exe 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-windows-amd64-setup.exe)
-		- [windows版 FlClash-0.8.68-windows-amd64.zip 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-windows-amd64.zip)
-		- [windows版 FlClash-0.8.68-windows-amd64.zip 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.68/FlClash-0.8.68-windows-amd64.zip)
+	- v0.8.70，要求 安卓5.0以上，win和macOS只测试过 win10 和 macOS 11 可用，[发布地址](https://github.com/chen08209/FlClash/releases/tag/v0.8.70)
+		- [安卓版 FlClash-0.8.70-android-armeabi-v7a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-android-armeabi-v7a.apk)
+		- [安卓版 FlClash-0.8.70-android-armeabi-v7a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-android-armeabi-v7a.apk)
+		- [安卓版 FlClash-0.8.70-android-arm64-v8a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-android-arm64-v8a.apk)
+		- [安卓版 FlClash-0.8.70-android-arm64-v8a.apk 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-android-arm64-v8a.apk)
+		- [macOS版 intel cpu 版 FlClash-0.8.70-macos-amd64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-macos-amd64.dmg)
+		- [macOS版 intel cpu 版 FlClash-0.8.70-macos-amd64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-macos-amd64.dmg)
+		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.70-macos-arm64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-macos-arm64.dmg)
+		- [macOS版 M 芯片 arm 架构版 FlClash-0.8.70-macos-arm64.dmg 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-macos-arm64.dmg)
+		- [windows版 FlClash-0.8.70-windows-amd64-setup.exe 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-windows-amd64-setup.exe)
+		- [windows版 FlClash-0.8.70-windows-amd64-setup.exe 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-windows-amd64-setup.exe)
+		- [windows版 FlClash-0.8.70-windows-amd64.zip 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-windows-amd64.zip)
+		- [windows版 FlClash-0.8.70-windows-amd64.zip 加速下载](https://ghproxy.cc/https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-windows-amd64.zip)
 
 
 - [hiddify-next](https://github.com/hiddify/hiddify-next)
@@ -113,13 +119,7 @@
     - 这个软件支持多线程下载，可以嗅探网页的 m3u8 视频，然后下载合并转码成 mp4
     - [蓝奏盘下载，密码：cajd](https://yxssp.lanzoui.com/b478866)
 
-- [Android 酷安 v12.0.2 纯净版 v11.2.4 纯净版-六音](https://www.sixyin.com/1871.html)
-
-- [酷安 v14.0.0 for Android 去广告版 - 交流岛资源网](https://www.jiaoliudao.com/android/myysc/13610.html)
-
 - [Android 安卓 迅雷v8.14 去广告解锁限速无限速版 – 小兵下载站](https://www.7xiazai.com/xunlei)
-
-- [Android 手机迅雷 v8.03.0.9067 纯净版-六音](https://www.sixyin.com/1686.html)
 
 - [迅雷APP(手机迅雷不限速) v8.03.0.9067 -绿软小站](https://www.gndown.com/5107.html)
 
@@ -132,11 +132,24 @@
     - [takagen99版TVBox](https://github.com/takagen99/Box)
     - [TVBoxOS-mobile](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile)
 
+- [影视TV](https://github.com/FongMi/TV)
+    - 强烈推荐使用，支持自动换源，支持猫影视自定义爬虫jar。
+    - 代码简洁规范，业务功能分明，架构层次分明，代码写得非常优秀，堪称经典。
+    - 收录了一些历史版本源码的仓库：[chengxue2020/BearTV](https://github.com/chengxue2020/BearTV)
+    - okjack透明颜色修改的记录，可以逆着改回白色背景，可参考 [commit](https://github.com/FongMi/TV/commit/d875b476af6d5b0c678e7ce2b43c90a2ace62e3a)
+
+- 影视TV / TVBox 搭配的接口资源
     - 猫影视/TVBoxOSC配置编辑器：[https://zhixc.github.io/CatVodTVJsonEditor](https://zhixc.github.io/CatVodTVJsonEditor)
-
     - 一些配置地址/来源
-
     - 自用接口配置：[https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json](https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json)
+        - https://jihulab.com/kjyhk/daercang/-/raw/main/fty.json
+        - https://jihulab.com/ss3234741/sj/-/raw/main/topw.png
+        - https://jihulab.com/homeuser/base/-/raw/main/list.json
+        - http://yuan.haitangw.net/tv/
+        - 多线，下载下来后里面有单个的接口可以复制使用: https://bitbucket.org/xduo/cool/raw/main/duo.json
+
+    - 多多主页：https://yydsys.top/
+    - 必应搜索得到的接口源分享站: https://blog.maskcao.top/article/tvbox
 
     - 一些js written by [jadehh](https://github.com/jadehh/TVSpider)
 
@@ -150,6 +163,11 @@
     - [alantang1977/X](https://github.com/alantang1977/X)
         - https://ghproxy.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json
 
+    - [xyq254245/xyqonlinerule](https://github.com/xyq254245/xyqonlinerule)
+        - 香雅情大佬分享，除了TVBox系列软件外还有一些其他实用的工具
+
+    - [weizhe940605收录各类仓库](https://github.com/weizhe940605?tab=stars)
+
     - [https://jihulab.com/zxwwp1/TVBox/](https://jihulab.com/zxwwp1/TVBox/)
     - [https://jihulab.com/kjyhk/daercang](https://jihulab.com/kjyhk/daercang)
     - [https://jihulab.com/ss3234741/sj](https://jihulab.com/ss3234741/sj)
@@ -161,10 +179,6 @@
     - [https://git.acwing.com/shhentu/lzxw](https://git.acwing.com/shhentu/lzxw)
     - [https://git.acwing.com/cuijw/cjwbox](https://git.acwing.com/cuijw/cjwbox)
 
-- [影视TV](https://github.com/FongMi/TV)
-    - 支持猫影视自定义爬虫jar。
-    - 收录了一些历史版本源码的仓库：[chengxue2020/BearTV](https://github.com/chengxue2020/BearTV)
-    - okjack透明颜色修改的记录，可以逆着改回白色背景，可参考 [commit](https://github.com/FongMi/TV/commit/d875b476af6d5b0c678e7ce2b43c90a2ace62e3a)
 
 - [cloudstream](https://github.com/recloudstream/cloudstream) 
     - [CloudStream：看电影看动漫，可添加源的免费且开源 Android TV 流媒体软件 – APP喵](https://www.appmiu.com/25793.html)

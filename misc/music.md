@@ -68,5 +68,13 @@
 
 - [若月亮没来 宝石GemX王宇宙X杨宗纬 等我攒够六便士 就去找月亮…_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1aw4m1S7HW/)
 
+- [【无损音质】《若是月亮还没来》-王宇宙Leto&乔浚丞](https://www.bilibili.com/video/BV1x8gbeGEFK/)
+
 - [索性自挂东南枝的合集和视频列表合集·热门歌曲 那些超好听的流行热歌](https://space.bilibili.com/350680303/channel/collectiondetail?sid=3915566)
+
+- [【无损音质】《异客》 -王睿卓](https://www.bilibili.com/video/BV1AphEefE5u/)
+
+- [宝石Gem&一哩哩一_执子之手_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1GM4m1U7Sx/)
+
+- [《感谢你曾来过》杨宗纬/周思涵/张子豪](https://www.bilibili.com/video/BV18M1FYqEeu/)
 

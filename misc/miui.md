@@ -1,8 +1,6 @@
 ### MIUI的ROM下载
 - https://xiaomirom.com
 
-- https://roms.miuier.com/zh-cn
-
 
 ### macOS 使用 adb 给手机刷 recovery
 
@@ -11,7 +9,7 @@
 
 刷第三方 recovery 
 
-举例子：将第三方recovery文件 LOS_Recovery.img 放到 platform-tools 目录下，终端进入 platform-tools 目录，手机重启到 fastboot 模式下(需要已经解锁bl)，然后执行如下命令，即可刷入：
+举例子：将第三方recovery文件如 LOS_Recovery.img 放到 platform-tools 目录下，终端进入 platform-tools 目录，手机重启到 fastboot 模式下(需要已经解锁bl)，然后执行如下命令，即可刷入：
 
 ```bash
 ./fastboot flash recovery LOS_Recovery.img

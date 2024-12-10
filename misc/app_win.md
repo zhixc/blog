@@ -6,13 +6,10 @@
     - [HelloWindows.cn](https://hellowindows.cn)
     - [【日常技巧】Rufus安装原版win10教程（全流程）_rufus教程-CSDN博客](https://blog.csdn.net/stevephone/article/details/115241887)
 
-
 - [windows defender如何添加信任软件](https://www.bilibili.com/video/BV1ao4y1m7Uu)
     - 防止误杀软件/游戏等，尤其是一些汉化补丁。
 
 - [多版本adobe flash player离线独立播放器](https://www.52pojie.cn/thread-1826183-1-1.html)
-
-- [Firefox/opera/Thunderbird/Brave/chrome/edge便携版自动生成、启动器](https://www.52pojie.cn/thread-1132305-1-1.html)
 
 ---
 
