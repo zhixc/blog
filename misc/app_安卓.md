@@ -102,15 +102,6 @@
 		- [Windows 版 Hiddify-Windows-Setup-x64.exe 下载](https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Windows-Setup-x64.exe)
 		- [Windows 版 Hiddify-Windows-Setup-x64.exe 加速下载](https://ghproxy.cc/https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Windows-Setup-x64.exe)
 
-- [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)
-    - 支持 yml、yaml、base64订阅，与 v2rayNG相比支持更多协议，如 hysteria2 协议
-    - 节点数量几百个也流畅，不像 v2rayNG ，几十个就特别卡顿
-    - v1.2.9
-        - [NB4A-1.2.9-armeabi-v7a.apk 下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.2.9/NB4A-1.2.9-armeabi-v7a.apk)
-        - [NB4A-1.2.9-armeabi-v7a.apk 加速下载](https://ghproxy.cc/https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.2.9/NB4A-1.2.9-armeabi-v7a.apk)
-        - [NB4A-1.2.9-arm64-v8a.apk 下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.2.9/NB4A-1.2.9-arm64-v8a.apk)
-        - [NB4A-1.2.9-arm64-v8a.apk 加速下载](https://ghproxy.cc/https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.2.9/NB4A-1.2.9-arm64-v8a.apk)
-
 ---
 
 ### 下载工具
@@ -142,9 +133,7 @@
     - 猫影视/TVBoxOSC配置编辑器：[https://zhixc.github.io/CatVodTVJsonEditor](https://zhixc.github.io/CatVodTVJsonEditor)
     - 一些配置地址/来源
     - 自用接口配置：[https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json](https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json)
-        - https://jihulab.com/kjyhk/daercang/-/raw/main/fty.json
         - https://jihulab.com/ss3234741/sj/-/raw/main/topw.png
-        - https://jihulab.com/homeuser/base/-/raw/main/list.json
         - http://yuan.haitangw.net/tv/
         - 多线，下载下来后里面有单个的接口可以复制使用: https://bitbucket.org/xduo/cool/raw/main/duo.json
 
@@ -168,14 +157,10 @@
 
     - [weizhe940605收录各类仓库](https://github.com/weizhe940605?tab=stars)
 
-    - [https://jihulab.com/zxwwp1/TVBox/](https://jihulab.com/zxwwp1/TVBox/)
-    - [https://jihulab.com/kjyhk/daercang](https://jihulab.com/kjyhk/daercang)
     - [https://jihulab.com/ss3234741/sj](https://jihulab.com/ss3234741/sj)
     - [https://jihulab.com/cjb2/cjb](https://jihulab.com/cjb2/cjb)
     - [https://github.com/oliverzp/File](https://github.com/oliverzp/File)
-    - [https://jihulab.com/dftv/dr_py/](https://jihulab.com/dftv/dr_py/)
     - [https://gitlab.com/ylede1/tvbox/-/blob/master/DC.json](https://gitlab.com/ylede1/tvbox/-/blob/master/DC.json)
-    - [https://gitee.com/qihaoyyds/qihao](https://gitee.com/qihaoyyds/qihao)
     - [https://git.acwing.com/shhentu/lzxw](https://git.acwing.com/shhentu/lzxw)
     - [https://git.acwing.com/cuijw/cjwbox](https://git.acwing.com/cuijw/cjwbox)
 

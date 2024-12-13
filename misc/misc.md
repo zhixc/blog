@@ -150,8 +150,6 @@
 
 - [音乐自由(Windows,Linux,Mac,Android)-全网音乐免费听MusicFree - 人生若只如初见](https://www.wxy97.com/archives/1f81713e-0ffc-4f5c-b4cc-6acb111e0062)
 
-- [Source extensions for the Mihon/Tachiyomi app](https://github.com/keiyoushi/extensions)
-
 - [takagen99收录的一些仓库，看看](https://github.com/takagen99?tab=repositories)
 
 - [dlgt7收录的一些仓库，看看](https://github.com/dlgt7?tab=repositories)
@@ -174,16 +172,8 @@
 
 - [美工修图 - 猪豆网](https://www.97444.cn/zixuejiaocheng/meigongxiutu)
 
-- [哔哩哔哩 的第三方 Android TV 应用](https://github.com/aaa1115910/bv)
-
-- [stantanasi/streamflix](https://github.com/stantanasi/streamflix)
-    - An Android TV and mobile app to stream movies and TV shows for free
-
 - [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
     - 使用 腾讯X5 WebView 开发的电视直播App
-
-- [mawaqit/android-tv-app](https://github.com/mawaqit/android-tv-app)
-    - Prayer times App for Android TV
 
 - [肉食动物合集-哔哩哔哩_bilibili](https://search.bilibili.com/all?keyword=%E8%82%89%E9%A3%9F%E5%8A%A8%E7%89%A9%E5%90%88%E9%9B%86)
 
