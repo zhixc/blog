@@ -50,7 +50,10 @@
 - 强烈推荐使用 跳坑者联盟整理的合集 天马G模拟器整合，网上搜索“天马G模拟器”就能够找到资源了。
 - 资源：
     - [安卓+PC天马3.5 正式版 复古模拟器 - 何浩的个人网站](https://haohe.fun/2022/07/%E5%AE%89%E5%8D%93pc%E5%A4%A9%E9%A9%AC3-5-%E6%AD%A3%E5%BC%8F%E7%89%88-%E5%A4%8D%E5%8F%A4%E6%A8%A1%E6%8B%9F%E5%99%A8)
+        - [天翼云盘下载（访问码:fsh8) ​](https://cloud.189.cn/t/7BfIZzVFFBNn)
+        - 解压密码：跳坑者联盟
     - [需科学，天马G1.X用街机整合包测试版 - 简介有惊喜](https://www.youtube.com/watch?v=5npA2VJ-a4g)
+        - 解压密码：跳坑者联盟
     - [天马G洗版级更新 - 经典游戏怀旧专区 - TGFC Lifestyle](https://bbs.tgfcer.com/viewthread.php?tid=8359222)
         - https://pan.baidu.com/s/1_JZvLS1UXcnPsfBRiafzfw?pwd=27qj
         - 解压密码：tgfctgfctgfc
@@ -144,6 +147,9 @@
 
     - [ls125781003/tvboxtg](https://github.com/ls125781003/tvboxtg)
         - 该仓库定时获取一些公开的接口配置，可以尝试将这个仓库的内容clone到其他代码托管平台【如gitlab / bitbucket】，从而加速加载接口文件内容
+
+    - [yangxiaoge/tvbox_cust](https://github.com/yangxiaoge/tvbox_cust)
+        - [多线](https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/%E5%A4%9A%E4%BB%93.json)
 
     - [saajnn/hipy-server](https://github.com/saajnn/hipy-server)
         - 这个仓库是之前别人搞的，现在已经删库了，这里算是有个备份的可以看看。

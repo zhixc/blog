@@ -48,6 +48,9 @@
 
 - QQ输入法
 
+- [搜狗输入法11.0.0.4909（官方无广告版本） - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1978968-1-1.html)
+
+- [搜狗输入法V9.3 (无广告、无弹窗版) - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-996049-1-1.html)
 
 ---
 

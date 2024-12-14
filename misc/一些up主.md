@@ -33,6 +33,8 @@
 - [小白测评的个人空间-小白测评个人主页-哔哩哔哩视频](https://space.bilibili.com/8969156)
 - [大米评测的个人空间-大米评测个人主页-哔哩哔哩视频](https://space.bilibili.com/8372353)
 
+- [【12月】500-5000元各价位手机最佳选择！菜包新机榜更新！超高性价比大推荐！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV13ozHYQEWE/)
+
 ---
 
 ### 其他

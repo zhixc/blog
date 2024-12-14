@@ -37,3 +37,6 @@
 - [C4D R25版](https://www.downkuai.com/soft/146300.html)
 
 ---
+
+- [旧版迅雷Thunder复活办法&迅雷Thunder 111.2.2.1716 绿色精简复活版 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1990657-1-1.html)
+

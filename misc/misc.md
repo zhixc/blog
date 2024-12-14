@@ -74,6 +74,8 @@
         - [某马前端V8.0架构视频课程](https://www.x6g.com/i-wz-23138.html)
 
 - [A姐分享](https://www.ahhhhfs.com)
+    - [虎课网 课程集合 - A姐分享](https://www.ahhhhfs.com/5632/)
+    - [80套PS付费课程资料合集 973GB - A姐分享](https://www.ahhhhfs.com/36672/)
     - [2024 Photoshop入门到精通（视频+课件） - A姐分享](https://www.ahhhhfs.com/52700)
     - [2024 精校小说下载网站集合 ahhhhfs - A姐分享](https://www.ahhhhfs.com/25350)
     - [80套PS付费课程资料合集 973GB - A姐分享](https://www.ahhhhfs.com/36672)
@@ -178,6 +180,40 @@
 - [肉食动物合集-哔哩哔哩_bilibili](https://search.bilibili.com/all?keyword=%E8%82%89%E9%A3%9F%E5%8A%A8%E7%89%A9%E5%90%88%E9%9B%86)
 
 - [BT之家1LOU站-回归初心，追求极简](https://www.1lou.pro/)
+
+- [CG教程-网盘免费下载](https://www.cg-ss.com/library/162.html)
+
+- [白无常c4d全套教程 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1622744-1-1.html)
+
+- [【C4D教程TVratc4d自学四部曲基础教程2】PS PR AI C4D等等图形图像资源和教程 – 花香宠儿](https://dydh8.wordpress.com/2018/11/29/ps-pr-ai-c4d%E7%AD%89%E7%AD%89%E5%9B%BE%E5%BD%A2%E5%9B%BE%E5%83%8F%E8%B5%84%E6%BA%90%E5%92%8C%E6%95%99%E7%A8%8B/)
+
+- [如何自学Photoshop，史上最全面PS教程和学习路径推荐  学吧导航](https://www.xue8nav.com/1410.html)
+
+- [几百GB的各类教程资源送给你！ - 设计宝藏](https://www.shejibaozang.com/13054.html)
+
+- [PS教程 - 设计宝藏](https://www.shejibaozang.com/jingpjc1/psjc)
+
+- [Ps+Ai双专业！设计师的第一门必修课_免费高速下载 百度网盘-分享无限制](https://pan.baidu.com/s/1mcRG5y5k_yZo1vsOg6LeZg?pwd=vtsd)
+
+- [【需魔法】【虎课网CAD】溜发网盘资源-www.666888.best – Telegram](https://t.me/s/iufazyw?q=%23%E8%AF%BE%E7%BD%91)
+
+资源名称:虎课网C4D软件系列课程
+关键词:虎 课网 C4D 软件 系列 课程 虎课网C4D软件系列课程
+
+教程介绍
+讲解C4D从0基础到精通，课程涵盖C4D的多边形建模，材质灯光，运动图形，效果器，并有实例教学。
+学习地址
+天翼：https://cloud.189.cn/t/beYvymBj6Jve
+微云：https://share.weiyun.com/AmFnBGt5
+UC：https://www.yun.cn/s/343fb51b17294d41a443fbd85a2f8981
+百度：https://pan.baidu.com/s/1qTDRLEB2q7RYCabpevCIEQ
+文件信息
+文件大小: 3271360020 字节
+MD5: 980A005CD9C1C83471759B166253D2D7
+SHA1: DF4DC851E4474234E9EB64B5E2B62E901099F884
+CRC32: A3080299
+
+- [【需魔法】溜发网盘资源-www.666888.best – Telegram](https://t.me/s/iufazyw/9885?q=%23PS)
 
 ---
 
