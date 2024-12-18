@@ -6,13 +6,13 @@
     - 镜像2: https://dgithub.xyz
 
 - Github raw、zip、clone、release 文件加速
-    - https://ghproxy.net/
+    - [https://ghproxy.net/](https://ghproxy.net/)
 
-    - https://ghproxy.cc/
+    - [https://ghproxy.cc/](https://ghproxy.cc/)
 
-    - https://ghproxy.cn/
+    - [https://ghproxy.cn/](https://ghproxy.cn/)
 
-    - https://github.moeyy.xyz/
+    - [https://github.moeyy.xyz/](https://github.moeyy.xyz/)
 
     - https://ghproxy.xiaopa.cc/
     

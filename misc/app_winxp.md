@@ -8,9 +8,6 @@
     - 支持 Windows XP、2003、Vista、7、8.x，支持 32 位操作系统。
 
 
-- [2023 年，我用回了 XP 系统](https://www.bilibili.com/video/BV14p4y1j79V)
-
-
 - [Windows xp sp3 cd vl 密钥 - 3000bookworm - 博客园](https://www.cnblogs.com/3000bookworm/p/15428174.html)
 
 

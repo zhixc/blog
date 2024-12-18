@@ -215,5 +215,9 @@ CRC32: A3080299
 
 - [【需魔法】溜发网盘资源-www.666888.best – Telegram](https://t.me/s/iufazyw/9885?q=%23PS)
 
+- [android studio历史版本下载](https://www.androiddevtools.cn/)
+
+- [git acwing可配置托管](https://git.acwing.com/users/sign_in)
+
 ---
 

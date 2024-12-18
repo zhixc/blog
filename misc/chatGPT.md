@@ -4,8 +4,6 @@
 
 - [https://chatnio.liujiarong.top](https://chatnio.liujiarong.top)
 
-- [https://g2.iswl.one/](https://g2.iswl.one/)
-
 - 这些东西来源
     - 源1: [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
     - 源2: [smiler666/AI-Online-Tool-List](https://github.com/smiler666/AI-Online-Tool-List)

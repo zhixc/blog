@@ -120,20 +120,14 @@
 ---
 
 ### 影音播放
-- TVBox
-    - 猫影视大佬联合其他大佬开发的初代 TVBox，已删库
-    - [俊版TVBox](https://github.com/q215613905/TVBoxOS)
-    - [takagen99版TVBox](https://github.com/takagen99/Box)
-    - [TVBoxOS-mobile](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile)
-
-- [影视TV](https://github.com/FongMi/TV)
+- [FongMi影视TV](https://github.com/FongMi/TV)
     - 强烈推荐使用，支持自动换源，支持猫影视自定义爬虫jar。
     - 代码简洁规范，业务功能分明，架构层次分明，代码写得非常优秀，堪称经典。
     - 收录了一些历史版本源码的仓库：[chengxue2020/BearTV](https://github.com/chengxue2020/BearTV)
     - okjack透明颜色修改的记录，可以逆着改回白色背景，可参考 [commit](https://github.com/FongMi/TV/commit/d875b476af6d5b0c678e7ce2b43c90a2ace62e3a)
 
-- 影视TV / TVBox 搭配的接口资源
-    - 猫影视/TVBoxOSC配置编辑器：[https://zhixc.github.io/CatVodTVJsonEditor](https://zhixc.github.io/CatVodTVJsonEditor)
+- 影视TV 搭配的接口资源
+    - 猫影视 / FongMi影视TV app 配置编辑器：[https://zhixc.github.io/CatVodTVJsonEditor](https://zhixc.github.io/CatVodTVJsonEditor)
     - 一些配置地址/来源
     - 自用接口配置：[https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json](https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json)
         - https://jihulab.com/ss3234741/sj/-/raw/main/topw.png
@@ -177,4 +171,3 @@
     - v4.4.0
         - [apk下载](https://github.com/recloudstream/cloudstream/releases/download/v4.4.0/4.4.0.apk)
         - [apk加速下载](https://ghproxy.cc/https://github.com/recloudstream/cloudstream/releases/download/v4.4.0/4.4.0.apk)
-
