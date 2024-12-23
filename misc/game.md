@@ -12,8 +12,6 @@
 
 - [GameBox & Byrutor & Koyso，直接搬空 Steam，免费下载不限速](https://www.ittel.cn/archives/30896.html)
 
-- [Codex Pascals.wager.definitive.edition SOCIGAMES](https://archive.org/details/codex-pascals.wager.definitive.edition-socigames.-com)
-
 - [Download Batman The Enemy Within The Telltale Series Complete Season ElAmigos-Games](https://www.elamigos-games.net/games/batman-the-enemy-within-the-telltale-series-complete-season)
 
 - [Download Castlevania: Lords of Shadow 2 ElAmigos-Games](https://www.elamigos-games.net/games/castlevania-lords-of-shadow-2-pc-esp)
@@ -23,8 +21,6 @@
 - [Tail of Desire Free Download](https://steamunlocked.net/c04a8-tail-of-desire-free-download/)
 
 - [Bloody Spell BUNDLE By Elong Games](https://lewdgames.to/bloody-spell-bundle-elong-games/)
-
-- [Bloody Spell.viethoa : gamehayvai : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/bloody-spell.viethoa)
 
 - [《忍者龙剑传：大师合集》中文版-小刀娱乐网 - 专注活动，软件，教程分享！总之就是网络那些事。](https://www.xiaodao1.com/i-wz-15181.html)
 

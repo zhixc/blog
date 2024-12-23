@@ -13,15 +13,6 @@
 
 ---
 
-## 影音播放
-
-- [QQ影音](https://pc.qq.com/detail/8/detail_8.html)
-
-- [暴风影音](https://www.mefcl.com/bf16/1293)
-
-- [千千静听](https://www.mefcl.com/ttplayer/8673)
-
-
 ---
 
 ## 压缩解压软件
@@ -42,8 +33,6 @@
 ## 输入法
 
 - 手心输入法
-
-- QQ输入法
 
 - [搜狗输入法11.0.0.4909（官方无广告版本） - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1978968-1-1.html)
 

@@ -6,7 +6,6 @@
 - Windows iso原版镜像下载
     - 提示：安装一下迅雷，用迅雷下载 ed2k 开头的链接吧，下载速度比较快
     - [系统库(有win11原版镜像)](https://www.xitongku.com/index.html)
-    - [HelloWindows.cn](https://hellowindows.cn)
     - [【日常技巧】Rufus安装原版win10教程（全流程）_rufus教程-CSDN博客](https://blog.csdn.net/stevephone/article/details/115241887)
 
 - [windows defender如何添加信任软件](https://www.bilibili.com/video/BV1ao4y1m7Uu)

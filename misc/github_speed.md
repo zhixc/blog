@@ -1,7 +1,6 @@
 ### Github加速
 - Github镜像站
-    - 来源1：https://coderschool.cn/3724.html
-    - 来源2：https://fcp7.com/github-mirror-daily-updates.html
+    - 来源：https://fcp7.com/github-mirror-daily-updates.html
 
     - 镜像2: https://dgithub.xyz
 

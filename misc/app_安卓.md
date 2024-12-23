@@ -126,48 +126,32 @@
     - 收录了一些历史版本源码的仓库：[chengxue2020/BearTV](https://github.com/chengxue2020/BearTV)
     - okjack透明颜色修改的记录，可以逆着改回白色背景，可参考 [commit](https://github.com/FongMi/TV/commit/d875b476af6d5b0c678e7ce2b43c90a2ace62e3a)
 
-- 影视TV 搭配的接口资源
-    - 猫影视 / FongMi影视TV app 配置编辑器：[https://zhixc.github.io/CatVodTVJsonEditor](https://zhixc.github.io/CatVodTVJsonEditor)
+- TVBox
+    - 猫影视大佬联合其他大佬开发的初代 TVBox，已删库
+    - [俊版TVBox](https://github.com/q215613905/TVBoxOS)
+    - [takagen99版TVBox](https://github.com/takagen99/Box)
+    - [TVBoxOS-mobile](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile)
+
+- 影视TV / TVBox 搭配的接口资源
+    - 猫影视 / TVBox / FongMi影视TV app 配置编辑器：[https://zhixc.github.io/CatVodTVJsonEditor](https://zhixc.github.io/CatVodTVJsonEditor)
     - 一些配置地址/来源
     - 自用接口配置：[https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json](https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json)
         - https://jihulab.com/ss3234741/sj/-/raw/main/topw.png
         - http://yuan.haitangw.net/tv/
-        - 多线，下载下来后里面有单个的接口可以复制使用: https://bitbucket.org/xduo/cool/raw/main/duo.json
-
-    - 多多主页：https://yydsys.top/
     - 必应搜索得到的接口源分享站: https://blog.maskcao.top/article/tvbox
-
-    - 一些js written by [jadehh](https://github.com/jadehh/TVSpider)
-
     - [ls125781003/tvboxtg](https://github.com/ls125781003/tvboxtg)
         - 该仓库定时获取一些公开的接口配置，可以尝试将这个仓库的内容clone到其他代码托管平台【如gitlab / bitbucket】，从而加速加载接口文件内容
-
     - [yangxiaoge/tvbox_cust](https://github.com/yangxiaoge/tvbox_cust)
-        - [多线](https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/%E5%A4%9A%E4%BB%93.json)
-
+        - [多线](https://fastly.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/%E5%A4%9A%E4%BB%93.json)
     - [saajnn/hipy-server](https://github.com/saajnn/hipy-server)
         - 这个仓库是之前别人搞的，现在已经删库了，这里算是有个备份的可以看看。
         - 另外 saajnn 有fork收录一些 js / jar 逆向的仓库，或许可以看看。
- 
     - [alantang1977/X](https://github.com/alantang1977/X)
         - https://ghproxy.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json
-
     - [xyq254245/xyqonlinerule](https://github.com/xyq254245/xyqonlinerule)
         - 香雅情大佬分享，除了TVBox系列软件外还有一些其他实用的工具
 
-    - [weizhe940605收录各类仓库](https://github.com/weizhe940605?tab=stars)
-
     - [https://jihulab.com/ss3234741/sj](https://jihulab.com/ss3234741/sj)
     - [https://jihulab.com/cjb2/cjb](https://jihulab.com/cjb2/cjb)
-    - [https://github.com/oliverzp/File](https://github.com/oliverzp/File)
     - [https://gitlab.com/ylede1/tvbox/-/blob/master/DC.json](https://gitlab.com/ylede1/tvbox/-/blob/master/DC.json)
-    - [https://git.acwing.com/shhentu/lzxw](https://git.acwing.com/shhentu/lzxw)
     - [https://git.acwing.com/cuijw/cjwbox](https://git.acwing.com/cuijw/cjwbox)
-
-
-- [cloudstream](https://github.com/recloudstream/cloudstream) 
-    - [CloudStream：看电影看动漫，可添加源的免费且开源 Android TV 流媒体软件 – APP喵](https://www.appmiu.com/25793.html)
-    - [List of extensions - CloudStream Wiki](https://cloudstream.miraheze.org/wiki/List_of_extensions)
-    - v4.4.0
-        - [apk下载](https://github.com/recloudstream/cloudstream/releases/download/v4.4.0/4.4.0.apk)
-        - [apk加速下载](https://ghproxy.cc/https://github.com/recloudstream/cloudstream/releases/download/v4.4.0/4.4.0.apk)
